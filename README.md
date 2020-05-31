@@ -22,5 +22,6 @@
 Кто хочет в команду, пишите мне в telegram
 ## Контакты:
 Участник
-* virtualtrainingcamp@protonmail.com
+* freedomcamp@protonmail.com
 * https://t.me/virtualtrainingcamp
+* https://github.com/freedomcamp
